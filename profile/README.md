@@ -14,6 +14,7 @@ Our company culture is: **"A harmonious integration of innovation and practicali
 
 ### Our Products
 - [Lsky Pro+](https://www.lsky.pro)
+- [Novaix](https://github.com/huohuastudio/novaix-releases)
 
 ### Contact Us
 
